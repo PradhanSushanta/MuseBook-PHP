@@ -1,7 +1,8 @@
 
 📘 MuseBook – PHP Version
 
-Chatbot-Based Museum Ticket Booking System
+An online chatbot-based ticketing system for museums.
+
 A lightweight version of MuseBook built using traditional web technologies to enable museums to accept and manage online bookings through a chatbot interface.
 
 
