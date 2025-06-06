@@ -27,3 +27,5 @@ A lightweight version of MuseBook built using traditional web technologies to en
 🌍 Multi-language chatbot interface
 
 📱 Responsive UI across all devices
+🎯 Purpose
+To provide museums an affordable and easy-to-use system for ticket booking and visitor management, without the need for heavy servers or frameworks.
