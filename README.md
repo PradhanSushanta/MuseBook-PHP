@@ -6,6 +6,7 @@ A lightweight version of MuseBook built using traditional web technologies to en
 
 
 🖥️ Tech Stack
+
 🌐 Frontend: HTML, CSS, JavaScript
 
 🐘 Backend: PHP
@@ -16,6 +17,8 @@ A lightweight version of MuseBook built using traditional web technologies to en
 
 
 ✨ Key Features
+
+
 💬 Chatbot interface for museum ticket booking
 
 📅 Real-time ticket availability checks
@@ -34,4 +37,5 @@ A lightweight version of MuseBook built using traditional web technologies to en
 
 
 🎯 Purpose
+
 To provide museums an affordable and easy-to-use system for ticket booking and visitor management, without the need for heavy servers or frameworks.
