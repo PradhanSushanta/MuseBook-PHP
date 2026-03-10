@@ -43,5 +43,4 @@ Reimagine museum access in India through conversational tech—bridging heritage
 
 ---
 
-## 📝 License
-MIT License – free to use and modify.
+
